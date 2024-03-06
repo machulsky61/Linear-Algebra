@@ -1,6 +1,6 @@
 # Computational Linear Algebra
 
-This repository contains materials related to the Practical an Theoretical classes frmo Computational Linear Algebra course. Below is a summary of the topics covered in the program:
+This repository contains materials related to the Practical an Theoretical classes from Computational Linear Algebra course. Below is a summary of the topics covered in the program:
 
 ## Content
 
