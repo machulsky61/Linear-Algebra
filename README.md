@@ -8,6 +8,8 @@
 
 This repository contains materials related to the Practical an Theoretical classes from Computational Linear Algebra course. Below is a summary of the topics covered in the program:
 
+<img src='https://m.media-amazon.com/images/I/61C8S8vwlAL._AC_UF350,350_QL50_.jpg' width='200' height='300'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKT9fh8mfhHrcn667Q_dd9tGxdR2u7542Dd6U5o8KbQ&s' width='200' height='300'><img src='https://m.media-amazon.com/images/I/41NUqNV3doL._AC_UF1000,1000_QL80_.jpg' width='200' height='300'><img src='https://m.media-amazon.com/images/I/71hINe-18HL._AC_UF1000,1000_QL80_.jpg' width='200' height='300'>
+
 ## Content
 
 ### Vector Spaces and Linear Transformations
